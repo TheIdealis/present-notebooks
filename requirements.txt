@@ -1,0 +1,9 @@
+numpy 
+ipympl
+scipy
+ipywidgets
+matplotlib
+sympy
+pyvista
+itkwidgets
+
